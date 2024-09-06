@@ -23,4 +23,3 @@ Single Linked List covers:
 18. Check loop
 19. Reverse nodes
 20. Rotate after Nth Node
-21. 
